@@ -21,7 +21,6 @@ DOMAIN-SUFFIX,gate.hockeyapp.net
 DOMAIN-SUFFIX,smartmailcloud.com
 
 # > Netflix
-DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netflix.net
 DOMAIN-SUFFIX,nflxext.com
@@ -29,6 +28,8 @@ DOMAIN-SUFFIX,nflximg.com
 DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,nflxvideo.net
+DOMAIN,netflix.com.edgesuite.net
+DOMAIN-KEYWORD,netflix
 USER-AGENT,Argo*
 
 # > YouTube
@@ -36,15 +37,49 @@ DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtube-nocookie.com
 DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,ytimg.com
 DOMAIN,youtubei.googleapis.com
+DOMAIN-KEYWORD,youtube
+DOMAIN,yt3.ggpht.com
 USER-AGENT,*YouTube*
 USER-AGENT,com.google.ios.youtube*
+USER-AGENT,*YouTubeMusic*
+USER-AGENT,*com.google.ios.youtubemusic*
+
+# > Speedtest
+DOMAIN-SUFFIX,fast.com
+DOMAIN-KEYWORD,speedtest
+DOMAIN-SUFFIX,ooklaserver.net
+DOMAIN-SUFFIX,speed.cloudflare.com
+USER-AGENT,SpeedTest*
+
+# > PayPal
+USER-AGENT,PayPal*
+DOMAIN-KEYWORD,paypal
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,paypalobjects.com
+
+# > Sony
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstationnetwork.com
+DOMAIN-SUFFIX,sony.com
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 
 # > Google
 IP-CIDR,173.194.0.0/16,no-resolve
 IP-CIDR,74.125.0.0/16,no-resolve
 
 # > Telegram
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,tx.me
+DOMAIN-SUFFIX,tdesktop.com
+DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX,telegram.me
+DOMAIN-SUFFIX,telegram.org
+IP-CIDR,91.108.0.0/16,no-resolve
 IP-CIDR,67.198.55.0/24,no-resolve
 IP-CIDR,91.108.4.0/22,no-resolve
 IP-CIDR,91.108.8.0/22,no-resolve
@@ -57,6 +92,9 @@ IP-CIDR,149.154.164.0/22,no-resolve
 IP-CIDR,149.154.168.0/22,no-resolve
 IP-CIDR,149.154.172.0/22,no-resolve
 IP-CIDR,205.172.60.0/22,no-resolve
+IP-CIDR6,2001:67c:4e8::/48,no-resolve
+IP-CIDR6,2001:b28:f23d::/48,no-resolve
+IP-CIDR6,2001:b28:f23f::/48,no-resolve
 
 # > Amazon
 IP-CIDR,13.32.0.0/16,no-resolve
@@ -124,7 +162,6 @@ DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,ampproject.org
-DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,notion.so
