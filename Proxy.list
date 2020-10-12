@@ -93,7 +93,7 @@ IP-CIDR,69.171.224.0/19,no-resolve
 IP-CIDR,69.63.176.0/20,no-resolve
 IP-CIDR,74.119.76.0/22,no-resolve
 
-# > Blocked
+# > Other
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,facebook
@@ -124,3 +124,7 @@ DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,ampproject.org
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,notion.so
