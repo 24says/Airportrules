@@ -1,18 +1,18 @@
 # > Apple
 DOMAIN,testflight.apple.com
-DOMAIN-SUFFIX,apple.co,PROXY
-DOMAIN-SUFFIX,apple.com,PROXY
-DOMAIN-SUFFIX,aaplimg.com,PROXY
-DOMAIN-SUFFIX,appsto.re,PROXY
-DOMAIN-SUFFIX,cdn-apple.com,PROXY
-DOMAIN-SUFFIX,icloud.com,PROXY
-DOMAIN-SUFFIX,icloud-content.com,PROXY
-DOMAIN-SUFFIX,itunes.com,PROXY
-DOMAIN-SUFFIX,me.com,PROXY
-DOMAIN-SUFFIX,Proxy.co,PROXY
-DOMAIN-SUFFIX,Proxy.com,PROXY
-DOMAIN-SUFFIX,Proxy-cloudkit.com,PROXY
-DOMAIN-SUFFIX,Proxy.news,PROXY
+DOMAIN-SUFFIX,apple.co
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,appsto.re
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,itunes.com
+DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,Proxy.co
+DOMAIN-SUFFIX,Proxy.com
+DOMAIN-SUFFIX,Proxy-cloudkit.com
+DOMAIN-SUFFIX,Proxy.news
 
 DOMAIN,aod.itunes.apple.com
 DOMAIN,api.smoot.apple.cn
