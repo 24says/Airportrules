@@ -47,13 +47,6 @@ USER-AGENT,com.google.ios.youtube*
 USER-AGENT,*YouTubeMusic*
 USER-AGENT,*com.google.ios.youtubemusic*
 
-# > Speedtest
-DOMAIN-SUFFIX,fast.com
-DOMAIN-KEYWORD,speedtest
-DOMAIN-SUFFIX,ooklaserver.net
-DOMAIN-SUFFIX,speed.cloudflare.com
-USER-AGENT,SpeedTest*
-
 # > PayPal
 USER-AGENT,PayPal*
 DOMAIN-KEYWORD,paypal
@@ -66,6 +59,13 @@ DOMAIN-SUFFIX,playstation.net
 DOMAIN-SUFFIX,playstationnetwork.com
 DOMAIN-SUFFIX,sony.com
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+
+# > Steam
+DOMAIN-SUFFIX,steam.com
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-KEYWORD,Steam
+USER-AGENT,Steam*
 
 # > Google
 IP-CIDR,173.194.0.0/16,no-resolve
@@ -165,4 +165,3 @@ DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,notion.so
-DOMAIN-SUFFIX,steam*.com
