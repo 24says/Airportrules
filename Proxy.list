@@ -64,7 +64,7 @@ DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 DOMAIN-SUFFIX,steam.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steampowered.com
-DOMAIN-KEYWORD,Steam
+DOMAIN-KEYWORD,steam
 USER-AGENT,Steam*
 
 # > Google
