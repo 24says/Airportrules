@@ -115,16 +115,6 @@ DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,windowsupdate.com
 USER-AGENT,OneDrive*
 
-# > Steam
-USER-AGENT,Steam*
-DOMAIN-SUFFIX,fanatical.com
-DOMAIN-SUFFIX,humblebundle.com
-DOMAIN-SUFFIX,steamcommunity.com
-DOMAIN-SUFFIX,steampowered.com
-DOMAIN-SUFFIX,steamstatic.com
-DOMAIN-SUFFIX,pinyuncloud.com
-DOMAIN-SUFFIX,steamcontent.com
-
 # > Blizzard
 USER-AGENT,hearthstone*
 DOMAIN,cdp.cloud.unity3d.com
