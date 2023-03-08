@@ -54,12 +54,26 @@ DOMAIN-SUFFIX,battlenet.com
 DOMAIN-SUFFIX,blizzard.com
 
 # > Internet
-PROCESS-NAME,v2ray
-PROCESS-NAME,ss-local
+DOMAIN-SUFFIX,qbittorrent.org
+DOMAIN-KEYWORD,aria2
+DOMAIN-KEYWORD,thunder
+DOMAIN-KEYWORD,xlliveud
+DOMAIN-KEYWORD,xunlei
+DOMAIN-KEYWORD,yunpan
 PROCESS-NAME,aria2c
-PROCESS-NAME,Thunder
-DOMAIN-SUFFIX,xunlei.com
-USER-AGENT,%E8%BF%85%E9%9B%B7
+PROCESS-NAME,bitcomet
+PROCESS-NAME,downloadservice
+PROCESS-NAME,fdm
+PROCESS-NAME,folx
+PROCESS-NAME,nettransport
+PROCESS-NAME,qbittorrent
+PROCESS-NAME,thunder
+PROCESS-NAME,transmission
+PROCESS-NAME,utorrent
+PROCESS-NAME,webtorrent
+PROCESS-NAME,webtorrenthelper
+PROCESS-NAME,weiyun
+PROCESS-NAME,v2ray
 
 # > GeoIP CN
 IP-CIDR,192.168.0.0/16
