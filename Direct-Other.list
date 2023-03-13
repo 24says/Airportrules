@@ -75,6 +75,14 @@ PROCESS-NAME,webtorrenthelper
 PROCESS-NAME,weiyun
 PROCESS-NAME,v2ray
 
+# > ChatGTP
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,intercom.io
+DOMAIN,cdn.auth0.com
+DOMAIN,openaiapi-site.azureedge.net
+
 # > GeoIP CN
 IP-CIDR,192.168.0.0/16
 IP-CIDR,10.0.0.0/8
