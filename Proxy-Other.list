@@ -10,6 +10,14 @@ DOMAIN-KEYWORD,paypal
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,paypalobjects.com
 
+# > ChatHTP
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,intercom.io
+DOMAIN,cdn.auth0.com
+DOMAIN,openaiapi-site.azureedge.net
+
 # > Other
 USER-AGENT, Clubhouse*
 DOMAIN-KEYWORD,blogspot
