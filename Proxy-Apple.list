@@ -1,1 +1,4 @@
 DOMAIN-SUFFIX,api2.smoot.apple.com
+DOMAIN-SUFFIX,identity.ess.apple.com
+DOMAIN-SUFFIX,query.ess.apple.com
+DOMAIN-SUFFIX,-courier.push.apple.com
