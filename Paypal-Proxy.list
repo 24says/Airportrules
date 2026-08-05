@@ -1,0 +1,50 @@
+# > PayPal 核心服务
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,paypalobjects.com
+DOMAIN-SUFFIX,paypal.me
+
+# > PayPal 国家和地区入口
+DOMAIN-SUFFIX,paypal.ca
+DOMAIN-SUFFIX,paypal.com.cn
+DOMAIN-SUFFIX,paypal.com.hk
+DOMAIN-SUFFIX,paypal.com.sg
+DOMAIN-SUFFIX,paypal.co.il
+DOMAIN-SUFFIX,paypal.co.jp
+DOMAIN-SUFFIX,paypal.com.tr
+DOMAIN-SUFFIX,paypal.hk
+DOMAIN-SUFFIX,paypal.jp
+DOMAIN-SUFFIX,paypal.us
+
+# > PayPal 社区、运行状态与公益服务
+DOMAIN-SUFFIX,paypal-community.com
+DOMAIN-SUFFIX,paypal-status.com
+DOMAIN-SUFFIX,paypalgivingfund.org
+
+# > PayPal Credit 与商业融资
+DOMAIN-SUFFIX,paypalcredit.com
+DOMAIN-SUFFIX,loanbuilder.com
+
+# > Braintree 支付网关与 Fastlane
+DOMAIN-SUFFIX,braintreegateway.com
+DOMAIN-SUFFIX,braintree-api.com
+DOMAIN-SUFFIX,braintreepayments.com
+
+# > Venmo
+DOMAIN-SUFFIX,venmo.com
+
+# > Xoom 跨境汇款
+DOMAIN-SUFFIX,xoom.com
+
+# > Hyperwallet 企业付款
+DOMAIN-SUFFIX,hyperwallet.com
+DOMAIN-SUFFIX,paylution.com
+
+# > Zettle 线下支付与商户服务
+DOMAIN-SUFFIX,zettle.com
+DOMAIN-SUFFIX,izettle.com
+
+# > Paidy 日本先买后付
+DOMAIN-SUFFIX,paidy.com
+
+# > Simility 风控与反欺诈
+DOMAIN-SUFFIX,simility.com
