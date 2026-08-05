@@ -20,7 +20,6 @@ DOMAIN-KEYWORD,oculus
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,adobe
 DOMAIN-KEYWORD,whatsapp
-DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,github
 DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,fb.me
@@ -32,13 +31,10 @@ DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,twimg.co
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitpic.com
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,hockeyapp.net
 DOMAIN-SUFFIX,bit.ly
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,awsstatic.com
-DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,app-measurement.com
