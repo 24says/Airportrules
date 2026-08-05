@@ -1,37 +1,50 @@
+# Apple Private Relay 第三方中继
 DOMAIN,apple-relay.cloudflare.com
 DOMAIN,apple-relay.fastly-edge.com
 DOMAIN,cp4.cloudflare.com
+
+# Apple 核心域名
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,apple
 DOMAIN-SUFFIX,apple.co
 DOMAIN-SUFFIX,apple.com
+
+# Apple 基础设施、CDN 与开发服务
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,apple-dns.com
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,apple-livephotoskit.com
 DOMAIN-SUFFIX,apple-mapkit.com
+DOMAIN-SUFFIX,appleschoolcontent.com
+DOMAIN-SUFFIX,axm-usercontent-apple.com
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,organicfruitapps.com
+
+# App Store、媒体与 Apple 旗下品牌
 DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,applemusic.com
 DOMAIN-SUFFIX,applepodcasts.com
-DOMAIN-SUFFIX,appleschoolcontent.com
 DOMAIN-SUFFIX,appletv.com
 DOMAIN-SUFFIX,appstore.com
 DOMAIN-SUFFIX,appsto.re
-DOMAIN-SUFFIX,axm-usercontent-apple.com
 DOMAIN-SUFFIX,beatsbydre.com
-DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,itunes.com
+DOMAIN-SUFFIX,musickit.net
+DOMAIN-SUFFIX,shazam.com
+
+# iCloud、邮件与历史账号域名
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud-sandbox.com
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloudmail.net
-DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,mac.com
 DOMAIN-SUFFIX,me.com
-DOMAIN-SUFFIX,musickit.net
-DOMAIN-SUFFIX,mzstatic.com
-DOMAIN-SUFFIX,organicfruitapps.com
-DOMAIN-SUFFIX,shazam.com
+
+# Siri
 DOMAIN-SUFFIX,siri.com
+
+# Apple IPv4 网络
 IP-CIDR,17.0.0.0/8,no-resolve
 IP-CIDR,63.92.224.0/19,no-resolve
 IP-CIDR,65.199.22.0/23,no-resolve
@@ -42,6 +55,8 @@ IP-CIDR,144.178.48.0/20,no-resolve
 IP-CIDR,192.35.50.0/24,no-resolve
 IP-CIDR,198.183.17.0/24,no-resolve
 IP-CIDR,205.180.175.0/24,no-resolve
+
+# Apple IPv6 网络
 IP-CIDR6,2403:300::/32,no-resolve
 IP-CIDR6,2620:149::/32,no-resolve
 IP-CIDR6,2a01:b740::/32,no-resolve
