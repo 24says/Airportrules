@@ -38,7 +38,6 @@ USER-AGENT,com.apple.appstored*
 USER-AGENT,geod*
 USER-AGENT,App%20Store*
 USER-AGENT,MacAppStore*
-USER-AGENT,com.apple.appstored*
 USER-AGENT,Music*
 USER-AGENT,AppleNews*
 USER-AGENT,com.apple.news*
