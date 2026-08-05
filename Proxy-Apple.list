@@ -19,10 +19,8 @@ DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,mzstatic.com
-DOMAIN-SUFFIX,Proxy.co
-DOMAIN-SUFFIX,Proxy.com
-DOMAIN-SUFFIX,Proxy-cloudkit.com
-DOMAIN-SUFFIX,Proxy.news
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,api2.smoot.apple.com
 DOMAIN-SUFFIX,identity.ess.apple.com
 DOMAIN-SUFFIX,query.ess.apple.com
