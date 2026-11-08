@@ -1,6 +1,7 @@
 # Bilibili PCDN / Maoer FM
 DOMAIN-SUFFIX,solseedr.cn
 DOMAIN-SUFFIX,solseed.cn
+
 # Pai Ou Cloud PCDN
 DOMAIN-SUFFIX,ppgslb.cn
 DOMAIN-SUFFIX,eeeam.com
@@ -39,7 +40,6 @@ DOMAIN-SUFFIX,mcdn.bilivideo.cn
 DOMAIN-SUFFIX,mcdn.bilivideo.com
 DOMAIN-SUFFIX,ppio.bilivideo.com
 DOMAIN-SUFFIX,kodo.bilivideo.com
-
 DOMAIN-SUFFIX,edge.mountaintoys.cn
 DOMAIN-SUFFIX,abcdefgaijkl.com
 DOMAIN-SUFFIX,wiebaijitamo.com
@@ -67,7 +67,6 @@ DOMAIN-SUFFIX,xionguamaqui.com
 DOMAIN-SUFFIX,gaetausohyei.com
 DOMAIN-SUFFIX,roongeimahwo.com
 DOMAIN-SUFFIX,kaiwaijaicai.com
-
 DOMAIN-SUFFIX,ourdvsss.com
 
 # Bilibili Telemetry, crazy sending speed...
